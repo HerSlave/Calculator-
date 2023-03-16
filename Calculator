@@ -1,4 +1,4 @@
-# This program creates a basic calculator
+
 
 # Define the addition function
 def add(x, y):
